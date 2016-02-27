@@ -1,0 +1,19 @@
+{
+  "name": "leaflet.TileLayer.WMTS",
+  "version": "1.0.0",
+  "description": "Add WMTS layering for leaflet.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XavierDupessey/leaflet.TileLayer.WMTS"
+  },
+  "keywords": [
+    "leaflet",
+    "WMTS",
+    "IGN"
+  ],
+  "author": "Alexandre Melard (http://blog.melard.fr)",
+  "contributors": [
+    "Xavier Dupessey <dev@xavierdupessey.com>"
+  ],
+  "license": "UNLICENSED"
+}
